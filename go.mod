@@ -23,6 +23,5 @@ require (
 	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
 	golang.org/x/net v0.0.0-20210505214959-0714010a04ed
 	golang.org/x/sys v0.0.0-20210507161434-a76c4d0a0096
-	gopkg.in/natefinch/lumberjack.v2 v2.0.0
-	gopkg.in/yaml.v2 v2.4.0 // indirect
+	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 )
